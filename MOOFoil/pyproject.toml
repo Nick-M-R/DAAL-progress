@@ -1,0 +1,7 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "MOOFoil"
+version = "2024.2.27"
